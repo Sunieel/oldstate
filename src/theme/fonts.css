@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "AlbraMedium";
+  src: url("/avstatic/fonts/AlbraMedium.woff");
+}
+
+@font-face {
+  font-family: "EuclidCircularB-Regular";
+  src: url("/avstatic/fonts/EuclidCircularB-Regular.woff");
+}
+
+@font-face {
+  font-family: "EuclidCircularB-SemiBold";
+  src: url("/avstatic/fonts/EuclidCircularB-SemiBold.woff");
+}

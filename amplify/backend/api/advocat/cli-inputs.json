@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "advocat",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/joelbabore/Documents/Personal/Code/advocat/amplify/backend/api/advocat/schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authadvocat"
+    },
+    "additionalAuthTypes": [
+      {
+        "mode": "API_KEY",
+        "expirationTime": 365,
+        "apiKeyExpirationDate": "2023-06-20T08:57:20.152Z",
+        "keyDescription": "get list of ProviderListingUpdate"
+      },
+      {
+        "mode": "AWS_IAM"
+      }
+    ],
+    "conflictResolution": {}
+  }
+}

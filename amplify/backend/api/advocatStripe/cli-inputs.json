@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "paths": {
+    "/stripe-config": {
+      "name": "/stripe-config",
+      "lambdaFunction": "advocatStripe",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/stripe-create-customer": {
+      "name": "/stripe-create-customer",
+      "lambdaFunction": "advocatStripe",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/stripe-create-subscription": {
+      "name": "/stripe-create-subscription",
+      "lambdaFunction": "advocatStripe",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/stripe-invoice-preview": {
+      "name": "/stripe-invoice-preview",
+      "lambdaFunction": "advocatStripe",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/stripe-cancel-subscription": {
+      "name": "/stripe-cancel-subscription",
+      "lambdaFunction": "advocatStripe",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/stripe-update-subscription": {
+      "name": "/stripe-update-subscription",
+      "lambdaFunction": "advocatStripe",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/subscriptions": {
+      "name": "/subscriptions",
+      "lambdaFunction": "advocatStripe",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/stripe-webhook": {
+      "name": "/stripe-webhook",
+      "lambdaFunction": "advocatStripe",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/": {
+      "name": "/",
+      "lambdaFunction": "advocatStripe",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

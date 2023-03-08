@@ -1,0 +1,14 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api
+Disallow: /blog
+Disallow: /authentication
+Disallow: /docs/
+Disallow: /dashboard
+
+# Host
+Host: https://youradvocat.com.au
+
+# Sitemaps
+Sitemap: https://youradvocat.com.au/sitemap.xml

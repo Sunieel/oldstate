@@ -1,0 +1,140 @@
+type PremiumService {
+  title: String
+  content: String
+}
+
+type PremiumAccreditations {
+  name: String
+  image: String
+  year: String
+}
+
+type PremiumPeople {
+  name: String
+  title: String
+  image: String
+  location: String
+  spiel: String
+  specialty: String
+  languages: String
+}
+
+type PremiumFees {
+  title: String
+  price: String
+}
+
+type PremiumFaq {
+  question: String
+  answer: String
+}
+
+type WorkingHours {
+  Monday: String
+  Tuesday: String
+  Wednesday: String
+  Thursday: String
+  Friday: String
+  Saturday: String
+  Sunday: String
+}
+
+type UpdatedProviderListing @model @auth(rules: [{allow: owner, ownerField: "owner", operations: [create, read, update]}, {allow: groups, groups: ["admin"], operations: [read, create, update, delete]}, { allow: private, operations: [read, update] }, { allow: public, operations: [read] } ]){
+  premiumAccreditations: [PremiumAccreditations]
+  premiumServices: [PremiumService]
+  premiumOverview: String
+  premiumPeople: [PremiumPeople]
+  premiumFees: [PremiumFees]
+  premiumFaqs: [PremiumFaq]
+  features: [String]
+  jurisdiction: String
+  languages: String
+  editors: [String]
+  query: String
+  name: String
+  site: String
+  type: String
+  subtypes: String
+  category: String
+  phone: String
+  full_address: String
+  borough: String
+  street: String
+  city: String
+  city_key: String @index(name: "ByCityKey", queryField: "listingsByCityKey", sortKeyFields: ["name"]) @index(name: "ByCityKeyAndRating", queryField: "listingsByCityKeyAndRating", sortKeyFields: ["rating"])
+  url_key: String @index(name: "ByUrlKey", queryField: "listingsByUrlKey")
+  postal_code: String @index(name: "ByPostCode", queryField: "listingsByPostCode")
+  state: String
+  us_state: String
+  country: String
+  country_code: String
+  latitude: String
+  longitude: String
+  time_zone: String
+  plus_code: String
+  rating: String
+  reviews: String
+  reviews_link: String
+  reviews_tags: String 
+  reviews_per_score: String
+  photos_count: String
+  photo: String
+  street_view: String
+  located_in: String
+  working_hours: WorkingHours
+  popular_times: String
+  business_status: String
+  about: String
+  range: String
+  posts: String
+  logo: String
+  description: String
+  verified: Boolean
+  owner_id: String
+  owner_title: String
+  owner_link: String
+  reservation_links: String
+  booking_appointment_link: String
+  menu_link: String
+  order_links: String
+  location_link: String
+  place_id: String! @primaryKey
+  google_id: String
+  cid: String
+  reviews_id: String
+  located_google_id: String
+  email_1: String
+  email_1_full_name: String
+  email_1_title: String
+  email_2: String
+  email_2_full_name: String
+  email_2_title: String
+  email_3: String
+  email_3_full_name: String
+  email_3_title: String
+  phone_1: String
+  phone_2: String
+  phone_3: String
+  facebook: String
+  instagram: String
+  linkedin: String
+  medium: String
+  reddit: String
+  skype: String
+  snapchat: String
+  telegram: String
+  whatsapp: String
+  twitter: String
+  vimeo: String
+  youtube: String
+  github: String
+  crunchbase: String
+  title: String
+  generator: String
+  keywords: String
+  deleted: Boolean
+  pending: Boolean
+  email: String
+  membership: String @index(name: "ByMembership", queryField: "listingsByMembership")
+}
+                    

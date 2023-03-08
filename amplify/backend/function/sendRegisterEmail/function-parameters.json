@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "auth": {
+      "advocat": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}

@@ -1,0 +1,8 @@
+{
+    "TemplateName": "AdvocatCustomVerification",
+    "FromEmailAddress": "joel.babore@gmail.com",
+    "TemplateSubject": "Advocat: Please confirm your email address",
+    "TemplateContent": "<html><head></head><body style='font-family:sans-serif;'><h1 style='text-align:center'>Ready to claim your listing?</h1><p>We here at Advocat are happy to have you on board! There's just one last step to complete before you can claim your listing. Just click the following link to verify your email address. Once we confirm that you're really you, you will be able to manage your listing.</p></body></html>",
+    "SuccessRedirectionURL": "https://main.d3ezmybvzdl7sc.amplifyapp.com/verifysuccess",
+    "FailureRedirectionURL": "https://main.d3ezmybvzdl7sc.amplifyapp.com/verifyfailure"
+  }

@@ -1,0 +1,630 @@
+[
+  {
+    "cat": "Conveyancer",
+    "count": 1013,
+    "heading": "Buying or selling a house & property law"
+  },
+
+  {
+    "cat": "Solicitor",
+    "count": 931,
+    "heading": "Divorce & family law"
+  },
+  {
+    "cat": "Solicitor",
+    "count": 931,
+    "heading": "Buying or selling a house & property law"
+  },
+  {
+    "cat": "Solicitor",
+    "count": 931,
+    "heading": "Personal injury & employment law"
+  },
+  {
+    "cat": "Solicitor",
+    "count": 931,
+    "heading": "Death & estate law"
+  },
+
+
+  {
+    "cat": "Legal services",
+    "count": 869,
+    "heading": "Divorce & family law"
+  },
+  {
+    "cat": "Legal services",
+    "heading": "Buying or selling a house & property law"
+  },
+  {
+    "cat": "Legal services",
+    "heading": "Personal injury & employment law"
+  },
+  {
+    "cat": "Legal services",
+    "heading": "Death & estate law"
+  },
+
+
+
+  {
+    "cat": "Law firm",
+    "count": 845,
+    "heading": "Divorce & family law"
+  },
+  {
+    "cat": "Law firm",
+    "heading": "Buying or selling a house & property law"
+  },
+  {
+    "cat": "Law firm",
+    "heading": "Personal injury & employment law"
+  },
+  {
+    "cat": "Law firm",
+    "heading": "Death & estate law"
+  },
+
+
+
+
+
+
+  {
+    "cat": "Family law attorney",
+    "count": 586,
+    "heading": "Divorce & family law"
+  },
+  {
+    "cat": "Estate planning attorney",
+    "count": 459,
+    "heading": "Death & estate law"
+  },
+  {
+    "cat": "Real estate attorney",
+    "count": 421,
+    "heading": "Buying or selling a house & property law"
+  },
+  {
+    "cat": "Divorce lawyer",
+    "count": 360,
+    "heading": "Divorce & family law"
+  },
+
+  {
+    "cat": "General practice attorney",
+    "count": 323,
+    "heading": "Divorce & family law"
+  },
+  {
+    "cat": "General practice attorney",
+    "heading": "Buying or selling a house & property law"
+  },
+  {
+    "cat": "General practice attorney",
+    "heading": "Personal injury & employment law"
+  },
+  {
+    "cat": "General practice attorney",
+    "heading": "Death & estate law"
+  },
+
+  {
+    "cat": "Criminal justice attorney",
+    "count": 316,
+    "heading": "Personal injury & employment law"
+  },
+  {
+    "cat": "Personal injury attorney",
+    "count": 301,
+    "heading": "Personal injury & employment law"
+  },
+  {
+    "cat": "Immigration attorney",
+    "count": 269,
+    "heading": "All other personal legal services"
+  },
+  {
+    "cat": "Employment attorney",
+    "count": 228,
+    "heading": "Personal injury & employment law"
+  },
+  {
+    "cat": "Real estate agency",
+    "count": 216,
+    "heading": "Buying or selling a house & property law"
+  },
+  {
+    "cat": "Immigration & Citizenship Service",
+    "count": 188,
+    "heading": "All other personal legal services"
+  },
+  {
+    "cat": "Elder law attorney",
+    "count": 186,
+    "heading": "Death & estate law"
+  },
+
+  {
+    "cat": "Insurance attorney",
+    "count": 158,
+    "heading": "Personal injury & employment law"
+  },
+  {
+    "cat": "Insurance attorney",
+    "count": 158,
+    "heading": "Buying or selling a house & property law"
+  },
+
+  {
+    "cat": "Barrister",
+    "count": 135,
+    "heading": "Divorce & family law"
+  },
+  {
+    "cat": "Barrister",
+    "heading": "Buying or selling a house & property law"
+  },
+  {
+    "cat": "Barrister",
+    "heading": "Personal injury & employment law"
+  },
+  {
+    "cat": "Barrister",
+    "heading": "Death & estate law"
+  },
+
+
+
+
+  {
+    "cat": "Mediation service",
+    "count": 135,
+    "heading": "Divorce & family law"
+  },
+  {
+    "cat": "Mediation service",
+    "heading": "Personal injury & employment law"
+  },
+  {
+    "cat": "Mediation service",
+    "heading": "Death & estate law"
+  },
+
+
+
+  {
+    "cat": "Trial attorney",
+    "count": 132,
+    "heading": "All other personal legal services"
+  },
+  {
+    "cat": "Notary public",
+    "count": 128,
+    "heading": "All other personal legal services"
+  },
+  {
+    "cat": "Tax preparation service",
+    "count": 126,
+    "heading": "All other personal legal services"
+  },
+
+  {
+    "cat": "Consultant",
+    "count": 121,
+    "heading": "Divorce & family law"
+  },
+  {
+    "cat": "Consultant",
+    "heading": "Buying or selling a house & property law"
+  },
+  {
+    "cat": "Consultant",
+    "heading": "Personal injury & employment law"
+  },
+  {
+    "cat": "Consultant",
+    "heading": "Death & estate law"
+  },
+
+
+  {
+    "cat": "Bankruptcy attorney",
+    "count": 114,
+    "heading": "All other personal legal services"
+  },
+
+
+
+  {
+    "cat": "Visa consultant",
+    "count": 104,
+    "heading": "All other personal legal services"
+  },
+
+
+  {
+    "cat": "Tax consultant",
+    "count": 104,
+    "heading": "Divorce & family law"
+  },
+  {
+    "cat": "Tax consultant",
+    "heading": "Buying or selling a house & property law"
+  },
+  {
+    "cat": "Tax consultant",
+    "heading": "Death & estate law"
+  },
+
+
+  {
+    "cat": "Tax attorney",
+    "count": 89,
+    "heading": "Divorce & family law"
+  },
+  {
+    "cat": "Tax attorney",
+    "heading": "Buying or selling a house & property law"
+  },
+  {
+    "cat": "Tax attorney",
+    "heading": "Death & estate law"
+  },
+
+  {
+    "cat": "Civil law attorney",
+    "count": 86,
+    "heading": "All other personal legal services"
+  },
+  {
+    "cat": "Educational consultant",
+    "count": 81,
+    "heading": "All other personal legal services"
+  },
+  {
+    "cat": "Patent attorney",
+    "count": 71,
+    "heading": "All other personal legal services"
+  },
+  {
+    "cat": "Certified public accountant",
+    "count": 69,
+    "heading": "All other personal legal services"
+  },
+
+
+  {
+    "cat": "Bankruptcy service",
+    "count": 64,
+    "heading": "Divorce & family law"
+  },
+  {
+    "cat": "Bankruptcy service",
+    "heading": "Buying or selling a house & property law"
+  },
+  {
+    "cat": "Bankruptcy service",
+    "heading": "Death & estate law"
+  },
+
+
+
+
+  {
+    "cat": "Superannuation Consultant",
+    "count": 63,
+    "heading": "Divorce & family law"
+  },
+  {
+    "cat": "Superannuation Consultant",
+    "heading": "Buying or selling a house & property law"
+  },
+  {
+    "cat": "Superannuation Consultant",
+    "heading": "Death & estate law"
+  },
+
+
+  {
+    "cat": "Tax preparation",
+    "count": 56,
+    "heading": "Divorce & family law"
+  },
+  {
+    "cat": "Tax preparation",
+    "heading": "Buying or selling a house & property law"
+  },
+  {
+    "cat": "Tax preparation",
+    "heading": "Death & estate law"
+  },
+
+
+
+
+  {
+    "cat": "Labor relations attorney",
+    "count": 54,
+    "heading": "Personal injury & employment law"
+  },
+
+  {
+    "cat": "Attorney referral service",
+    "count": 52,
+    "heading": "All other personal legal services"
+  },
+  {
+    "cat": "Medical lawyer",
+    "count": 52,
+    "heading": "Personal injury & employment law"
+  },
+  {
+    "cat": "Divorce service",
+    "count": 47,
+    "heading": "Divorce & family law"
+  },
+  {
+    "cat": "Business to business service",
+    "count": 46,
+    "heading": "All other personal legal services"
+  },
+
+  {
+    "cat": "Appraiser",
+    "count": 46,
+    "heading": "Buying or selling a house & property law"
+  },
+  {
+    "cat": "Appraiser",
+    "heading": "Death & estate law"
+  },
+
+  {
+    "cat": "City courthouse",
+    "count": 44,
+    "heading": "All other personal legal services"
+  },
+
+
+  {
+    "cat": "Investment service",
+    "count": 44,
+    "heading": "Buying or selling a house & property law"
+  },
+  {
+    "cat": "Investment service",
+    "heading": "Death & estate law"
+  },
+
+
+  {
+    "cat": "Lawyers association",
+    "count": 42,
+    "heading": "All other personal legal services"
+  },
+
+  
+  {
+    "cat": "Court",
+    "count": 41,
+    "heading": "Divorce & family law"
+  },
+  {
+    "cat": "Court",
+    "heading": "Buying or selling a house & property law"
+  },
+  {
+    "cat": "Court",
+    "heading": "Personal injury & employment law"
+  },
+  {
+    "cat": "Court",
+    "heading": "Death & estate law"
+  },
+
+
+
+  {
+    "cat": "Public defender's office",
+    "count": 41,
+    "heading": "All other personal legal services"
+  },
+  {
+    "cat": "Association or organization",
+    "count": 36,
+    "heading": "All other personal legal services"
+  },
+
+  {
+    "cat": "Debt collecting",
+    "count": 30,
+    "heading": "All other personal legal services"
+  },
+
+  {
+    "cat": "Aged Care Service",
+    "count": 28,
+    "heading": "Death & estate law"
+  },
+  {
+    "cat": "Paralegal services provider",
+    "count": 27,
+    "heading": "All other personal legal services"
+  },
+  {
+    "cat": "Legal aid office",
+    "count": 21,
+    "heading": "All other personal legal services"
+  },
+  {
+    "cat": "Debt collection agency",
+    "count": 19,
+    "heading": "All other personal legal services"
+  },
+  {
+    "cat": "Business administration service",
+    "count": 18,
+    "heading": "All other personal legal services"
+  },
+
+  {
+    "cat": "Domestic Violence Service",
+    "count": 18,
+    "heading": "Personal injury & employment law"
+  },
+  {
+    "cat": "Domestic Violence Service",
+    "heading": "Divorce & family law"
+  },
+
+  {
+    "cat": "Building consultant",
+    "count": 18,
+    "heading": "Buying or selling a house & property law"
+  },
+
+  {
+    "cat": "Liquidator",
+    "count": 17,
+    "heading": "Divorce & family law"
+  },
+  {
+    "cat": "Liquidator",
+    "heading": "Buying or selling a house & property law"
+  },
+  {
+    "cat": "Liquidator",
+    "heading": "Death & estate law"
+  },
+
+
+  {
+    "cat": "Private investigator",
+    "count": 17,
+    "heading": "All other personal legal services"
+  },
+  {
+    "cat": "Process server",
+    "count": 17,
+    "heading": "All other personal legal services"
+  },
+  {
+    "cat": "Insolvency service",
+    "count": 16,
+    "heading": "All other personal legal services"
+  },
+  {
+    "cat": "Law school",
+    "count": 14,
+    "heading": "All other personal legal services"
+  },
+  {
+    "cat": "Aboriginal & Torres Strait Islander Organisation",
+    "count": 13,
+    "heading": "All other personal legal services"
+  },
+  {
+    "cat": "Auditor",
+    "count": 13,
+    "heading": "All other personal legal services"
+  },
+  {
+    "cat": "District attorney",
+    "count": 12,
+    "heading": "All other personal legal services"
+  },
+
+
+  {
+    "cat": "Professional services",
+    "count": 11,
+    "heading": "Divorce & family law"
+  },
+  {
+    "cat": "Professional services",
+    "heading": "Buying or selling a house & property law"
+  },
+  {
+    "cat": "Professional services",
+    "heading": "Personal injury & employment law"
+  },
+  {
+    "cat": "Professional services",
+    "heading": "Death & estate law"
+  },
+
+
+
+
+  {
+    "cat": "Money transfer service",
+    "count": 11,
+    "heading": "All other personal legal services"
+  },
+
+  {
+    "cat": "Tax assessor",
+    "count": 10,
+    "heading": "Death & estate law"
+  },
+  {
+    "cat": "Tax assessor",
+    "heading": "Buying or selling a house & property law"
+  },
+
+
+  {
+    "cat": "Title company",
+    "count": 10,
+    "heading": "Death & estate law"
+  },
+  {
+    "cat": "Title company",
+    "heading": "Buying or selling a house & property law"
+  },
+
+
+  {
+    "cat": "Administrative attorney",
+    "count": 10,
+    "heading": "All other personal legal services"
+  },
+
+  {
+    "cat": "Justice of the peace",
+    "count": 10,
+    "heading": "All other personal legal services"
+  },
+  {
+    "cat": "Magistrates' court",
+    "count": 10,
+    "heading": "All other personal legal services"
+  },
+  {
+    "cat": "Supreme court",
+    "count": 9,
+    "heading": "All other personal legal services"
+  },
+  {
+    "cat": "Business broker",
+    "count": 9,
+    "heading": "All other personal legal services"
+  },
+  {
+    "cat": "Engineering consultant",
+    "count": 9,
+    "heading": "Buying or selling a house & property law"
+  },
+  {
+    "cat": "Environmental consultant",
+    "count": 9,
+    "heading": "Buying or selling a house & property law"
+  },
+ 
+  {
+    "cat": "Employment consultant",
+    "count": 7,
+    "heading": "Personal injury & employment law"
+  }
+]

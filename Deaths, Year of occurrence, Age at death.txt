@@ -1,0 +1,75 @@
+Deaths, Year of occurrence, Age at death, Age-specific death rates, Sex, States, Territories and Australia
+source:
+https://explore.data.abs.gov.au/vis?fs[0]=People%2C1%7CPopulation%23POPULATION%23%7CDeaths%23DEATHS%23&pg=0&fc=People&df[ds]=PEOPLE_TOPICS&df[id]=DEATHS_AGESPECIFIC_OCCURENCEYEAR&df[ag]=ABS&df[vs]=1.0.0&pd=2009%2C&dq=12.2%2B1%2B3..8%2B7%2B6%2B5%2B4%2B3%2B2%2B1%2BAUS.A&ly[cl]=TIME_PERIOD&ly[rw]=AGE
+api:
+https://api.data.abs.gov.au/data/ABS,DEATHS_AGESPECIFIC_OCCURENCEYEAR,1.0.0/12.2+1+3..8+7+6+5+4+3+2+1+AUS.A?startPeriod=2009&dimensionAtObservation=AllDimensions
+structure:
+https://api.data.abs.gov.au/dataflow/ABS/DEATHS_AGESPECIFIC_OCCURENCEYEAR/1.0.0?references=all
+
+
+
+Regional Statistics by LGA 2020, 2011-2020
+https://api.data.abs.gov.au/data/ABS,ABS_REGIONAL_LGA2020,1.2.0/..10050.A?startPeriod=2020&dimensionAtObservation=AllDimensions
+https://api.data.abs.gov.au/dataflow/ABS/ABS_REGIONAL_LGA2020/1.2.0?references=all
+
+
+
+ERP by LGA (ASGS 2021), 2001 to 2021
+https://api.data.abs.gov.au/data/ABS,ERP_LGA2021,1.0.0/..1+2+3+4+5+6+7+8+9.A?startPeriod=2010&dimensionAtObservation=AllDimensions
+https://api.data.abs.gov.au/dataflow/ABS/ERP_LGA2021/1.0.0?references=all
+
+
+
+Net internal and overseas migration estimates by region (SA2 and above) and age, 2016-17 onwards
+https://api.data.abs.gov.au/data/ABS,ABS_REGIONAL_MIGRATION,1.0.0/9..1+2+3+4+5+6+7+8..A?startPeriod=2017&dimensionAtObservation=AllDimensions
+https://api.data.abs.gov.au/dataflow/ABS/ABS_REGIONAL_MIGRATION/1.0.0?references=all
+
+
+
+Census 2016, Core Activity Need For Assistance by Age by Sex (SA2+)
+https://api.data.abs.gov.au/data/ABS,ABS_C16_T14_SA,1.0.0/.....0?startPeriod=2016&dimensionAtObservation=AllDimensions
+https://api.data.abs.gov.au/dataflow/ABS/ABS_C16_T14_SA/1.0.0?references=all
+
+
+
+Census Time Series 2016, 2011, 2006: T24 Dwelling Structure by Dwelling Type (SA2+)
+https://api.data.abs.gov.au/data/ABS,ABS_C16_T24_TS_SA,1.0.0/....0?startPeriod=2006&dimensionAtObservation=AllDimensions
+https://api.data.abs.gov.au/dataflow/ABS/ABS_C16_T24_TS_SA/1.0.0?references=all
+
+
+
+Census Time Series 2016, 2011, 2006: T16 Unpaid Domestic Work: Number of Hours by Age by Sex (SA2+)
+https://api.data.abs.gov.au/data/ABS,ABS_C16_T16_TS_SA,1.0.0/.....0?startPeriod=2006&dimensionAtObservation=AllDimensions
+https://api.data.abs.gov.au/dataflow/ABS/ABS_C16_T16_TS_SA/1.0.0?references=all
+
+
+
+Census Time Series 2016, 2011, 2006: T22 Number of Motor Vehicles by Dwelling records (SA2+)
+https://api.data.abs.gov.au/data/ABS,ABS_C16_T22_TS_SA,1.0.0/...0?startPeriod=2006&dimensionAtObservation=AllDimensions
+https://api.data.abs.gov.au/dataflow/ABS/ABS_C16_T22_TS_SA/1.0.0?references=all
+
+
+
+Census Time Series 2016, 2011, 2006: T02 Registered Marital Status by Age by Sex (SA2+)
+https://api.data.abs.gov.au/data/ABS,ABS_C16_T02_TS_SA,1.0.0/.....0?startPeriod=2006&dimensionAtObservation=AllDimensions
+https://api.data.abs.gov.au/dataflow/ABS/ABS_C16_T02_TS_SA/1.0.0?references=all
+
+
+
+Census Time Series 2016, 2011, 2006: T29 Selected Labour Force, Education and Migration Characteristics (SA2+)
+https://api.data.abs.gov.au/data/ABS,ABS_C16_T29_TS_SA,1.0.0/....0?startPeriod=2006&dimensionAtObservation=AllDimensions
+https://api.data.abs.gov.au/dataflow/ABS/ABS_C16_T29_TS_SA/1.0.0?references=all
+
+
+
+
+Building Approvals by SA2 and above
+https://api.data.abs.gov.au/data/ABS,BA_SA2,2.0.0/..TOT.TOT..1+2+3+4+5+6+7+8+AUS.M?startPeriod=2021-01&dimensionAtObservation=AllDimensions
+https://api.data.abs.gov.au/dataflow/ABS/BA_SA2/2.0.0?references=all
+
+
+
+
+ERP by SA2 (ASGS 2011), Age and Sex, 2001 to 2016
+https://api.data.abs.gov.au/data/ABS,ABS_ERP_ASGS,1.0.0/.3..STE..A?startPeriod=2016&dimensionAtObservation=AllDimensions
+https://api.data.abs.gov.au/dataflow/ABS/ABS_ERP_ASGS/1.0.0?references=all
